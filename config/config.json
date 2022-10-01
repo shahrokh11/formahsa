@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7C1d8d660545279be1089EE18E93e75c7e51D083",
+  "SCAN_LINK": "https://etherscan.io/address/0x7c1d8d660545279be1089ee18e93e75c7e51d083",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ForMahsa",
+  "SYMBOL": "FM",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 0.0,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 185000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/for-mahsa",
+  "SHOW_BACKGROUND": true
+}
